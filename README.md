@@ -21,10 +21,8 @@
 ---
 
 ### 📫 Connect with me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-link-here/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=flat&logo=firefox-browser)](https://your-portfolio-link.com/)  
-📧 Email: sujayyourmail@gmail.com
+📧 Email: pradhansujay856@gmail.com
 
 ---
 
