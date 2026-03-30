@@ -109,11 +109,22 @@ const sujay = {
 
 ## 📊 GitHub Stats
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"/>
+</div>
 
 ---
 
@@ -182,5 +193,3 @@ If you're building something real and need someone who understands both the code
 **⭐ If you like my work, consider giving my repos a star!**
 
 </div>
-
-
