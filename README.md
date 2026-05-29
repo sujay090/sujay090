@@ -26,7 +26,7 @@
 ```typescript
 const sujay = {
   role:        "Full Stack Developer",
-  location:    "Durgapur, West Bengal, India 🇮🇳",
+  location:    "West Bengal, India 🇮🇳",
   currentWork: "Building edusathi.net — SaaS Edutech Platform",
   impact:      "30+ institutes served in production",
   superpower:  "Multi-tenant SaaS architecture from scratch",
