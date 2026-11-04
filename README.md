@@ -1,183 +1,167 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sujay%20Pradhan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20SaaS%20Architect%20%7C%20AWS%20%7C%20DevOps&descAlignY=52&descSize=16"/>
+<a href="https://ironcloude.co.in">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:0891b2&height=220&section=header&text=SUJAY%20PRADHAN&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=Full-stack%20engineer%20%7C%20SaaS%20architect%20%7C%20cloud%20builder&descAlignY=57&descSize=17&animation=fadeIn" width="100%" />
+</a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Building+production-grade+SaaS+platforms;Multi-tenant+architect+%40+edusathi.net;30%2B+institutes+served+in+production;React+%7C+Node.js+%7C+AWS+%7C+Observability)](https://git.io/typing-svg)
+<a href="https://linkedin.com/in/sujay-pradhan-79392b25b"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=67e8f9" alt="LinkedIn" /></a>
+<a href="mailto:pradhansujay856@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=fda4af" alt="Email" /></a>
+<a href="https://ironcloude.co.in"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=google-chrome&logoColor=a5b4fc" alt="Portfolio" /></a>
+<img src="https://komarev.com/ghpvc/?username=sujay090&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile views" />
 
-<p align="center">
-  <a href="https://linkedin.com/in/sujay-pradhan-79392b25b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:pradhansujay856@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://ironcloude.co.in" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=sujay-pradhan&style=for-the-badge&color=6AD3F7&label=PROFILE+VIEWS"/>
-</p>
+<br />
+<br />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1100&color=67E8F9&center=true&vCenter=true&width=720&lines=I+build+software+that+survives+production.;Multi-tenant+SaaS+for+real+institutes.;React+%2B+Node.js+%2B+AWS+%2B+observability.;From+first+commit+to+reliable+systems." alt="Typing intro" />
 
 </div>
 
----
-
-## 🚀 About Me
-
-```typescript
-const sujay = {
-  role:        "Full Stack Developer",
-  location:    "West Bengal, India 🇮🇳",
-  currentWork: "Building edusathi.net — SaaS Edutech Platform",
-  impact:      "30+ institutes served in production",
-  superpower:  "Multi-tenant SaaS architecture from scratch",
-  learning:    ["Redis", "Agentic AI", "DSA", "System Design"],
-  openTo:      "Remote opportunities worldwide 🌍",
-};
-```
-
-> I don't just write code. I **architect systems**, deploy them on cloud infrastructure, monitor them in production, and keep them running reliably for real users.
-
----
-
-## 🏗️ What I Built in Production
+<br />
 
 <table>
 <tr>
+<td width="55%" valign="top">
 
-<td width="50%">
+## 👋 Hey, I'm Sujay
 
-### ☁️ [ironcloude.co.in](https://ironcloude.co.in)
-**Cloud File Storage Solution**
+A full-stack developer from **West Bengal, India** who enjoys turning complex product ideas into dependable systems.
 
-- ✅ Secure **OAuth 2.0** authentication
-- ✅ **RBAC** — granular file permissions
-- ✅ AWS S3 + CloudFront for delivery
-- ✅ End-to-end production security
+I currently build **[edusathi.net](https://edusathi.net)** — a multi-tenant edutech SaaS platform used by **30+ institutes in production**.
 
-`Node.js` `AWS S3` `OAuth` `RBAC` `PM2`
+> I care about the part after `git push`: deployment, observability, security, scale, and the people using the product.
+
+</td>
+<td width="45%" valign="top">
+
+### ⚡ At a glance
+
+```text
+┌─────────────────────────┐
+│ 30+  institutes served  │
+│ SaaS multi-tenant       │
+│ AWS production systems  │
+│ Remote-ready            │
+└─────────────────────────┘
+```
 
 </td>
 </tr>
 </table>
 
----
+## 🧭 What I build
 
-## 🛠️ Tech Stack
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🧱 Product systems
+
+Thoughtful interfaces and APIs with React, Node.js, TypeScript, and Express.
+
+</td>
+<td width="33%" valign="top">
+
+### ☁️ Cloud platforms
+
+Secure, observable infrastructure using AWS, Docker, PM2, and CI/CD workflows.
+
+</td>
+<td width="33%" valign="top">
+
+### 📈 Real-world scale
+
+Multi-tenant architecture, RBAC, production monitoring, and systems built to evolve.
+
+</td>
+</tr>
+</table>
+
+## 🚀 Selected work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [edusathi.net](https://edusathi.net)
+**Multi-tenant edutech SaaS**
+
+- Built for **30+ institutes** in production
+- Designed tenant-aware product architecture
+- Focused on reliable workflows for real users
+
+`React` `Node.js` `MongoDB` `AWS`
+
+</td>
+<td width="50%" valign="top">
+
+### [ironcloude.co.in](https://ironcloude.co.in)
+**Cloud file storage platform**
+
+- OAuth 2.0 authentication
+- Granular RBAC file permissions
+- AWS S3 + CloudFront delivery
+- Production security and process management
+
+`Node.js` `S3` `OAuth` `RBAC`
+
+</td>
+</tr>
+</table>
+
+## 🛠️ My toolkit
 
 <div align="center">
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
-![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-
-### Observability
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+| Build | Store | Ship | Observe |
+|:---:|:---:|:---:|:---:|
+| ![React](https://skillicons.dev/icons?i=react,nodejs,ts,express) | ![Databases](https://skillicons.dev/icons?i=mongodb,postgres,redis) | ![Cloud](https://skillicons.dev/icons?i=aws,docker,linux,git) | ![Observability](https://skillicons.dev/icons?i=grafana,prometheus) |
 
 </div>
 
----
-
-## 📊 GitHub Stats
+## 📊 The engineer behind the commits
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sujay090&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujay090&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=sujay090&show_icons=true&theme=transparent&title_color=67e8f9&text_color=cbd5e1&icon_color=a5b4fc&border_color=1e293b&include_all_commits=true&count_private=true" alt="Sujay's GitHub stats" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujay090&layout=compact&langs_count=8&theme=transparent&title_color=67e8f9&text_color=cbd5e1&border_color=1e293b" alt="Top languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujay090&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujay090&theme=transparent&ring=67e8f9&fire=fda4af&currStreakLabel=67e8f9&sideLabels=cbd5e1&currStreakNum=ffffff&sideNums=ffffff&dates=94a3b8&border=1e293b" alt="GitHub streak" />
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sujay090&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"/>
-</div>
-
----
-
-## 📈 What Makes Me Different
-
-```
-Most freshers:     certificates + tutorial projects + no real users
-                   ↓
-Me:                live production systems + 30+ real clients + real traffic
-                   ↓
-Result:            I know what happens AFTER code ships — not just how to write it
-```
-
-| Skill | Level |
-|---|---|
-| Full Stack Development (React + Node.js) | ████████████ Production |
-| AWS Infrastructure (EC2, S3, CloudFront) | ████████████ Production |
-| Multi-tenant SaaS Architecture | ████████████ Production |
-| Observability (Grafana, Prometheus, Loki) | ████████████ Production |
-| CI/CD Pipelines | ██████████░░ Advanced |
-| Redis | ████████░░░░ Learning |
-| System Design | ████████░░░░ Growing |
-
----
-
-## 🌱 Currently Learning
+## 🌱 Currently exploring
 
 <div align="center">
 
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-00ADD8?style=for-the-badge&logo=leetcode&logoColor=white)
-![AI](https://img.shields.io/badge/Agentic_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![System Design](https://img.shields.io/badge/System_Design-FF6B6B?style=for-the-badge&logo=blueprint&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-0f172a?style=for-the-badge&logo=redis&logoColor=ef4444)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-0f172a?style=for-the-badge&logo=openai&logoColor=a5b4fc)
+![DSA](https://img.shields.io/badge/DSA-0f172a?style=for-the-badge&logo=leetcode&logoColor=fbbf24)
+![System Design](https://img.shields.io/badge/System_Design-0f172a?style=for-the-badge&logo=blueprint&logoColor=67e8f9)
 
 </div>
 
----
-
-## 💡 My Philosophy
-
-> *"A system that works in production is worth a thousand that only work on localhost."*
-
-I believe in building things that **actually ship**, **actually scale**, and **actually help real people.** Every line of code I write is meant to be maintained, monitored, and trusted in production.
-
----
-
-## 🤝 Let's Connect
+## 💬 A principle I build by
 
 <div align="center">
+
+### **A system that works in production is worth a thousand that only work on localhost.**
+
+I build things that **ship**, **scale**, and **help real people** — then I make sure they stay healthy.
+
+</div>
+
+## 🤝 Let's build something useful
 
 I'm open to **remote full-stack roles**, **freelance projects**, and **interesting collaborations**.
 
-If you're building something real and need someone who understands both the code and what happens after it ships — let's talk!
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sujay-pradhan-79392b25b)
-[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pradhansujay856@gmail.com)
-
-</div>
-
----
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<a href="mailto:pradhansujay856@gmail.com"><img src="https://img.shields.io/badge/Start_a_conversation-0891b2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Sujay" /></a>
+<a href="https://linkedin.com/in/sujay-pradhan-79392b25b"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-312e81?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
 
-**⭐ If you like my work, consider giving my repos a star!**
+<br />
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:312e81,100:0f172a&height=120&section=footer" width="100%" />
 
 </div>
