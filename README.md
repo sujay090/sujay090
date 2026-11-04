@@ -43,19 +43,7 @@ const sujay = {
 
 <table>
 <tr>
-<td width="50%">
 
-### 🎓 [edusathi.net](https://edusathi.net)
-**Multi-tenant SaaS Edutech Platform**
-
-- ✅ Serving **30+ institutes** in production
-- ✅ New client goes **live in seconds** (zero downtime)
-- ✅ Full **multi-tenant SaaS** architecture
-- ✅ Built entirely from scratch
-
-`React.js` `Node.js` `MongoDB` `AWS` `Grafana`
-
-</td>
 <td width="50%">
 
 ### ☁️ [ironcloude.co.in](https://ironcloude.co.in)
