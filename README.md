@@ -12,7 +12,7 @@
 <br />
 <br />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1100&color=67E8F9&center=true&vCenter=true&width=720&lines=I+build+software+that+survives+production.;Multi-tenant+SaaS+for+real+institutes.;React+%2B+Node.js+%2B+AWS+%2B+observability.;From+first+commit+to+reliable+systems." alt="Typing intro" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1100&color=67E8F9&center=true&vCenter=true&width=720&lines=I+build+software+that+survives+production.;React+%2B+Node.js+%2B+AWS+%2B+observability.;From+first+commit+to+reliable+systems." alt="Typing intro" />
 
 </div>
 
@@ -26,8 +26,6 @@
 
 A full-stack developer from **West Bengal, India** who enjoys turning complex product ideas into dependable systems.
 
-I currently build **[edusathi.net](https://edusathi.net)** — a multi-tenant edutech SaaS platform used by **30+ institutes in production**.
-
 > I care about the part after `git push`: deployment, observability, security, scale, and the people using the product.
 
 </td>
@@ -37,10 +35,8 @@ I currently build **[edusathi.net](https://edusathi.net)** — a multi-tenant ed
 
 ```text
 ┌─────────────────────────┐
-│ 30+  institutes served  │
-│ SaaS multi-tenant       │
-│ AWS production systems  │
-│ Remote-ready            │
+│ AWS production systems │
+│ Remote-ready           │
 └─────────────────────────┘
 ```
 
@@ -70,29 +66,13 @@ Secure, observable infrastructure using AWS, Docker, PM2, and CI/CD workflows.
 
 ### 📈 Real-world scale
 
-Multi-tenant architecture, RBAC, production monitoring, and systems built to evolve.
+Production monitoring, RBAC, and systems built to evolve.
 
 </td>
 </tr>
 </table>
 
 ## 🚀 Selected work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [edusathi.net](https://edusathi.net)
-**Multi-tenant edutech SaaS**
-
-- Built for **30+ institutes** in production
-- Designed tenant-aware product architecture
-- Focused on reliable workflows for real users
-
-`React` `Node.js` `MongoDB` `AWS`
-
-</td>
-<td width="50%" valign="top">
 
 ### [ironcloude.co.in](https://ironcloude.co.in)
 **Cloud file storage platform**
@@ -103,10 +83,6 @@ Multi-tenant architecture, RBAC, production monitoring, and systems built to evo
 - Production security and process management
 
 `Node.js` `S3` `OAuth` `RBAC`
-
-</td>
-</tr>
-</table>
 
 ## 🛠️ My toolkit
 
