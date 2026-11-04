@@ -97,12 +97,12 @@ Production monitoring, RBAC, and systems built to evolve.
 ## 📊 The engineer behind the commits
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=sujay090&show_icons=true&theme=transparent&title_color=67e8f9&text_color=cbd5e1&icon_color=a5b4fc&border_color=1e293b&include_all_commits=true&count_private=true" alt="Sujay's GitHub stats" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujay090&layout=compact&langs_count=8&theme=transparent&title_color=67e8f9&text_color=cbd5e1&border_color=1e293b" alt="Top languages" />
+  <img height="175" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sujay090&show_icons=true&theme=transparent&title_color=67e8f9&text_color=cbd5e1&icon_color=a5b4fc&border_color=1e293b&include_all_commits=true&count_private=true" alt="Sujay's GitHub stats" />
+  <img height="175" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sujay090&layout=compact&langs_count=8&theme=transparent&title_color=67e8f9&text_color=cbd5e1&border_color=1e293b" alt="Top languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujay090&theme=transparent&ring=67e8f9&fire=fda4af&currStreakLabel=67e8f9&sideLabels=cbd5e1&currStreakNum=ffffff&sideNums=ffffff&dates=94a3b8&border=1e293b" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=sujay090&theme=transparent&ring=67e8f9&fire=fda4af&currStreakLabel=67e8f9&sideLabels=cbd5e1&currStreakNum=ffffff&sideNums=ffffff&dates=94a3b8&border=1e293b" alt="GitHub streak" />
 </div>
 
 ## 🌱 Currently exploring
